@@ -1,0 +1,47 @@
+/******************************************
+/* HOT GARBAGE - PLEASE DON'T MIMIC THIS CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+h1{
+  display:flex;
+  justify-content: center;
+}
+
+.hidden{
+  display:none;
+}
+*{
+  font-family: 'Gloria Hallelujah', cursive;
+  font-weight: bold;
+}
+
+body{
+  background-image: url(fun.jpg);
+  background-repeat: none;
+  background-size: cover;
+}
+
+
+ul{
+  list-style-type: none;
+  font-size: 40px;
+  display: flex;
+  justify-content: space-around;
+}
+
+
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
